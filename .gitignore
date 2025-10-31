@@ -1,0 +1,18 @@
+# Python 虛擬環境相關
+venv/
+.venv/
+pyvenv.cfg
+
+# 編譯與打包相關
+build/
+dist/
+__pycache__/
+*.pyc
+
+# 執行檔和特定檔案
+*.spec
+*.exe
+*.pfx
+
+#api log
+log/

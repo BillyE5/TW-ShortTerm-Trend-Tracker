@@ -1,0 +1,8 @@
+{
+    "fubon_api": {
+        "id": "id",
+        "password": "password",
+        "cert_path": "cert_path.pfx",
+        "cert_pass": "cert_password"
+    }
+}
